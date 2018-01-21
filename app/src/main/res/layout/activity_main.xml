@@ -8,7 +8,7 @@
 
     android:orientation="vertical"
     android:gravity="center"
-    android:background="#000733"
+    android:background="@color/background_navy"
     >
 
 
@@ -34,7 +34,7 @@
         android:text="@string/udacity_name"
         android:textSize="28sp"
         android:textAllCaps="true"
-        android:textColor="#ced2e5"
+        android:textColor="@color/gray_white"
         />
 
     <TextView
@@ -54,7 +54,7 @@
 
         android:autoLink="all"
 
-        android:textColorLink="#ced2e5"
+        android:textColorLink="@color/gray_white"
         />
 
 
